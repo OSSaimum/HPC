@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboris_lib.a CMakeFiles/boris_lib.dir/src/boris.cpp.o
+/usr/bin/ranlib libboris_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/boris_traj_n.dir/link.d CMakeFiles/boris_traj_n.dir/tools/boris_traj_n.cpp.o -o boris_traj_n  libboris_lib.a
